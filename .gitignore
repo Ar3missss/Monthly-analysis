@@ -1,0 +1,17 @@
+env/
+
+__pycache__/
+
+.ipynb_checkpoints/
+
+.vscode/
+
+.DS_Store
+
+*.twb
+
+*.twbx
+
+*.db
+
+*.twbr
